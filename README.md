@@ -8,4 +8,4 @@ I am currently moving into software development and automation. I work on practi
 
 In addition to learning development, I maintain a self-hosted home lab where I experiment with tools for infrastructure and security. I host my portfolio site using Cloudflare Tunnel behind CGNAT, run services through a reverse proxy, and build monitoring projects like a Wazuh SIEM lab.
 
-I am particularly interested in roles where development, infrastructure, and automation come together. I want to help build reliable systems while growing as a developer.
+I'm particularly interested in roles where development, infrastructure, and automation come together. I want to help build reliable systems while growing as a developer.
